@@ -63,5 +63,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Inspired by the need for simple examples in operating systems and C programming.
 
 ---
-Feel free to customize this document to suit your specific needs before publishing to GitHub.
-
