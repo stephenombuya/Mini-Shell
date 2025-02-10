@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror -std=c11
 TARGET = mini-shell
-SRC = mini-shell.c
+SRC = code.c
 OBJ = $(SRC:.c=.o)
 
 all: $(TARGET)
